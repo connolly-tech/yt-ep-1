@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"caleb"
+	],
+	"copyright": "Copyright © 2019, caleb",
+	"dependencies": {
+		"dsfml": "~>2.1.1"
+	},
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "pong"
+}
